@@ -1,3 +1,4 @@
 {
-    "server": "187.220.207.132"
+    "server": "187.220.207.132",
+    "apiExchangeRate": "https://v6.exchangerate-api.com/v6/bdbbe74163c3462b426bc939/latest/USD"
 }
